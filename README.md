@@ -130,7 +130,3 @@ This generates a secure keystream suitable for encrypting sensitive data in embe
 
 To demonstrate a future-ready cryptographic hardware system that combines quantum entropy and post-quantum algorithms for secure and efficient data protection.
 
-
----
-
-If you want, I can also write a very strong GitHub version that looks like a research project (which helps during hackathon judging and recruiter reviews).
